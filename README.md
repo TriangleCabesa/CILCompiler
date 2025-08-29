@@ -1,4 +1,4 @@
-This project will take a language that is a mix between C# and Python, compile it down into Common Intermediate Language (CIL), then execute it.
+This project will take a language that is a mix between C# and a few methods I like from Python, compile it down into Common Intermediate Language (CIL), then execute it. The current supported C# syntax is definitely very basic, but it does work.
 
 The attached text file can be dropped on your desktop, and when you debug the project it will use that text file's code. Feel free to edit the text file locally on your machine.
 
